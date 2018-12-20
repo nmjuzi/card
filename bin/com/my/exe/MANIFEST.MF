@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.my.exe.panel
+Class-Path: . lib/commons-lang3-3.4.jar lib/core-3.2.1.jar lib/javase-2.2.jar lib/mail-1.4.1.jar lib/mysql-connector-java-5.1.6.jar
+Created-By: WangYaWen
